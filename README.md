@@ -120,6 +120,10 @@ The endpoint overrides are needed because the container cannot reach `127.0.0.1`
 
 **Precedence order** (highest wins): built-in defaults < `garage.toml` < `config.yaml` < environment variables.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Garage%20UI/)
+
 ## Configuration
 
 Minimum required config:
